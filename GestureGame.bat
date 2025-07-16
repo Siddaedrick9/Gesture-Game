@@ -1,0 +1,6 @@
+@echo off
+echo Activating virtual environment...
+call C:\Users\Lenovo\handgame-env\Scripts\activate.bat
+echo Running ComputerVision Gesture Game...
+python "C:\Users\Lenovo\Downloads\ComputerVision Gesture Game.py"
+pause
